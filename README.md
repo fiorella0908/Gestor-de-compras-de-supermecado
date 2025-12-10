@@ -9,5 +9,6 @@ git commit -m [creacion del repositorio y archivo del programa]- Fiorella Campos
 
 git commit -m [cree un usuario de git y averigüe su uso]- Edward Chiano_31604916
 
+git commit -m[instalacion de la aplicación git]- Efrain Maestre_32136468
 
 
