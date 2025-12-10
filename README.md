@@ -1,6 +1,6 @@
 # Fiorella Campos 31512681
 # Jose Leon 31447470
-# Erain Maestre 32136468
+# Efrain Maestre 32136468
 # Edward Chiano 31604916
 
 git commit -m [cree una cuenta de git hub]- José León_31447470
